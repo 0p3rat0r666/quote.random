@@ -16,6 +16,7 @@
 ![*☆*](https://xaoiui.neocities.org/Limestar.gif) Using the value of *index* the function *genquote* will run ``console.log(quotes[index]);``. ![*☆*](https://xaoiui.neocities.org/Limestar.gif)
 
 *As of writing the current highest index is 31 but this is expected to change.*
-***UPDATE!** Updated where 31 was to be ``quotes.length`` so that it wouldn't have to be manually updated.*
+
+***UPDATE!** Updated where 31 was to be ``quotes.length`` so that the max value wouldn't have to be manually updated.*
 
 *☆* *♡* *☆* *♡* *☆* *♡* *☆* *♡* *☆* *♡* *☆* *♡*
